@@ -9,8 +9,12 @@ This is the final assignment for CS305, Computing tools. In this project, I will
 ## Ari Jaramillo's Contribution
 I will be focused on maintaining the website where people will be looking at the Github contributions. This is a simple task I will doing by using Github and markdown.
 
+## Trevor Johnson's Contribution
+I will write out a document detailing the best practices for contributing to this repository.
+
 ## Authors
   - Ari Jaramillo (aej88@nau.edu)
+  - Trevor Johnson (tkj44@nau.edu)
 
 
 ## License
