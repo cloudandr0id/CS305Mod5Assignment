@@ -12,4 +12,4 @@ This is the final assignment for CS305, Computing tools. In this project, I will
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/cloudandr0id/CS305Mod5Assignment/blob/main/LICENSE.md) file for details.
