@@ -6,6 +6,9 @@ This is the final assignment for CS305, Computing tools. In this project, I will
   - Markdown
   - Github
 
+## Ari Jaramillo's Contribution
+I will be focused on maintaining the website where people will be looking at the Github contributions. This is a simple task I will doing by using Github and markdown.
+
 ## Authors
   - Ari Jaramillo (aej88@nau.edu)
 
