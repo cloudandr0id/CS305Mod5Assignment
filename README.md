@@ -12,9 +12,13 @@ I will be focused on maintaining the website where people will be looking at the
 ## Trevor Johnson's Contribution
 I will write out a document detailing the best practices for contributing to this repository.
 
+## Nathan Underwood's Contribution
+I will begin to work out some code that can be implemented onto this repository.
+
 ## Authors
   - Ari Jaramillo (aej88@nau.edu)
   - Trevor Johnson (tkj44@nau.edu)
+  - Nathan Underwood (nlu6@nau.edu)
 
 
 ## License
